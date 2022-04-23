@@ -1,5 +1,6 @@
 # ByteReactor
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_shield) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rubenmathews_byte-reactor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rubenmathews_byte-reactor) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=rubenmathews_byte-reactor&metric=coverage)](https://sonarcloud.io/summary/new_code?id=rubenmathews_byte-reactor)
+
 
 
 ByteReactor is a Runtime Compiler for java. ByteReactor compiles the given source and loads the compiled class
