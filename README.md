@@ -12,7 +12,7 @@ Install ByteReactor from maven
 <dependency>
     <groupId>com.rubenmathews</groupId>
     <artifactId>byte-reactor</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 </dependency>
 ```
 
