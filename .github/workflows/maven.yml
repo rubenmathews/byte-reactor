@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-
+    name: Default Build
     runs-on: ubuntu-latest
 
     steps:
