@@ -1,4 +1,6 @@
 # ByteReactor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_shield)
+
 
 ByteReactor is a Runtime Compiler for java. ByteReactor compiles the given source and loads the compiled class
 
@@ -87,3 +89,6 @@ Path destinationPath = Paths.get("src/test/target");
 ByteReactor byteReactor = ByteReactorBuilder.builder().build();
 Class<?> loadedClass = byteReactor.loadClass(new CompilationRequest(code, className, destinationPath));
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_large)
