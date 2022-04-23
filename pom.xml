@@ -25,6 +25,8 @@
         <jacoco.version>0.8.7</jacoco.version>
         <checkstyle-maven-plugin.version>3.1.2</checkstyle-maven-plugin.version>
         <checkstyle.version>9.3</checkstyle.version>
+        <sonar.organization>rubenmathews</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <licenses>
