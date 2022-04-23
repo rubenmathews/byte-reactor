@@ -1,4 +1,6 @@
-# ByteReactor [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_shield)
+# ByteReactor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubenmathews%2Fbyte-reactor?ref=badge_shield)
+
 
 ByteReactor is a Runtime Compiler for java. ByteReactor compiles the given source and loads the compiled class
 
